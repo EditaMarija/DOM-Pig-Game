@@ -1,7 +1,7 @@
 # DOM Pig Game  
 #### A simple game for learning DOM manipulation and events
 
-### GAME RULES:
+GAME RULES:
 
   * The game has 2 players, playing in rounds
   * In each turn, a player rolls a dice as many times as he wishes. Each result get added to his ROUND score
