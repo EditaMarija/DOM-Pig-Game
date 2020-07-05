@@ -10,6 +10,6 @@
   * The first player to reach 100 points on GLOBAL score wins the game
 
 ![screenshot](https://user-images.githubusercontent.com/52567746/81311882-9c48e480-908e-11ea-81b7-c0f505b1c84d.jpg)
---
-## Demo:
+---
+##### Demo:
 https://editamarija.github.io/DOM-Pig-Game/
